@@ -21,3 +21,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O projeto é uma pagina web estatica, para treinamento de algumas funções do HTML e CSS
+![image](https://github.com/RodolffoMacedo/paginatreino/assets/146378931/5cdc922c-4ffd-4265-a9fd-ef9c857b4bee)
